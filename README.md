@@ -2,7 +2,7 @@
 
 Full-stack developer at **DataArt**, building production web apps with
 React, Next.js, TypeScript, and Node.js. I work across REST & GraphQL APIs,
-PostgreSQL/MySQL, and microservices, and use AI-assisted workflows
+PostgreSQL/MySQL, MongoDB and microservices, and use AI-assisted workflows
 (Claude, Copilot, Cursor) to ship faster without cutting corners.
 
 ### 🛠 Core stack
